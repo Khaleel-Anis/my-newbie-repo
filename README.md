@@ -1,2 +1,2 @@
 # my-newbie-repo
-This is a simple rep
+This is a simple repo
